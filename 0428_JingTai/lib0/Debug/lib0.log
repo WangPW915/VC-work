@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/4/28 21:25:33。
+     1>项目“F:\大二\大二下\vc++\实验\0428_JingTai\lib0\lib0.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\lib0.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt w32.cpp
+         w32.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"F:\大二\大二下\vc++\实验\0428_JingTai\Debug\lib0.lib" /NOLOGO Debug\stdafx.obj
+         Debug\w32.obj
+         lib0.vcxproj -> F:\大二\大二下\vc++\实验\0428_JingTai\Debug\lib0.lib
+     1>已完成生成项目“F:\大二\大二下\vc++\实验\0428_JingTai\lib0\lib0.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.70
