@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/5/25 16:42:54。
+     1>项目“F:\大二\大二下\vc++\实验\420_test_3\420_test_3\420_test_3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\420_test_3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\420_test_3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 420_test_3.cpp 420_test_3Doc.cpp 420_test_3View.cpp MainFrm.cpp
+         MainFrm.cpp
+         420_test_3View.cpp
+         420_test_3Doc.cpp
+         420_test_3.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\420_test_3.res" 420_test_3.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大二\大二下\vc++\实验\420_test_3\Debug\420_test_3.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\大二\大二下\vc++\实验\420_test_3\Debug\420_test_3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大二\大二下\vc++\实验\420_test_3\Debug\420_test_3.lib" /MACHINE:X86 Debug\420_test_3.res
+         Debug\420_test_3.obj
+         Debug\420_test_3Doc.obj
+         Debug\420_test_3View.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         420_test_3.vcxproj -> F:\大二\大二下\vc++\实验\420_test_3\Debug\420_test_3.exe
+     1>已完成生成项目“F:\大二\大二下\vc++\实验\420_test_3\420_test_3\420_test_3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:13.62
