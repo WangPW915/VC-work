@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/6/8 20:27:45。
+     1>项目“F:\大二\大二下\vc++\实验\420_test2_4\420_test2_4\420_test2_4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\420_test2_4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 420_test2_4View.cpp
+         420_test2_4View.cpp
+     1>f:\大二\大二下\vc++\实验\420_test2_4\420_test2_4\420_test2_4view.cpp(116): error C2065: “dc”: 未声明的标识符
+     1>f:\大二\大二下\vc++\实验\420_test2_4\420_test2_4\420_test2_4view.cpp(116): error C2228: “.Ellipse”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>已完成生成项目“F:\大二\大二下\vc++\实验\420_test2_4\420_test2_4\420_test2_4.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:09.47
